@@ -1,4 +1,4 @@
-# Hacktober 2021
+# HacktoberFest 2021
 
 How to contribute?
 -------------
