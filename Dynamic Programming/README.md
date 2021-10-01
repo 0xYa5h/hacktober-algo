@@ -1,4 +1,4 @@
-## Filename Format: username-dp-name-of-problem.extention
-example: githubuser-dp-sum-of-subsets.cpp
+## Filename Format: dp-name-of-problem.extention
+example: dp-sum-of-subsets.cpp
 
 ###### Say No to Plagiarism
